@@ -28,7 +28,7 @@
       <td>브루트포스</td>
     </tr>
     <tr>
-      <td>01</td>
+      <td>02</td>
       <td>✅</td>
       <td><a href="https://www.acmicpc.net/problem/18511">18511</a></td>
       <td>큰 수 구성하기</td>
