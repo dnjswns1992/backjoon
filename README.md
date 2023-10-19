@@ -27,5 +27,13 @@
       <td>실버5</td>
       <td>브루트포스</td>
     </tr>
+     <tr>
+      <td>00</td>
+      <td>✅</td>
+      <td>a< href = "https://www.acmicpc.net/problem/18511">2231<a/><td>
+      <td>큰 수 구성하기</td>
+      <td>실버3</td>
+      <td>DFS 중복순열</td>
+    </tr>
   </tbody>
 </table>
